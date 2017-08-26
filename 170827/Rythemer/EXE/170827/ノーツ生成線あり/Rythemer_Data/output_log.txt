@@ -1,0 +1,155 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M  (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   10.18.13.5330
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Programming\Project\Unity\Rythemer\EXE\170827\Rythemer_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.023 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.305962 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 620 -> priority: 1 
+  Thread -> id: 3054 -> priority: 1 
+  Thread -> id: 2d68 -> priority: 1 
+  Thread -> id: 13e4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.182798 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.296770 ms (FindLiveObjects: 0.050031 ms CreateObjectMapping: 0.032927 ms MarkObjects: 0.178746 ms  DeleteObjects: 0.034209 ms)
+
+Text Files Path : D:/Programming/Project/Unity/Rythemer/EXE/170827/Rythemer_Data/Resources/2_GameScene/Sound/Music/000/
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Click, TL_L
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 19.48387
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 20.38147
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 21.25006
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 22.14744
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create 0 Note
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 23.0451
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create 3 Note
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Click, TL_L
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Note[0]'s Judge is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 23.94255
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Click, TL_L
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Note[3]'s Judge is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create 6 Note
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 24.84014
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create 9 Note
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Click, TL_L
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Note[6]'s Judge is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create 12 Note
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 25.73773
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Click, TL_L
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Note[9]'s Judge is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 26.63522
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Click, TL_L
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Note[12]'s Judge is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 27.53285
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tick! 28.4303
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
